@@ -34,7 +34,7 @@ else
   cp ./backup/whitelist.json .whitelist.json
 
   # Start process
-  ./bedrock_server.sh
+  ./bedrock_server
 fi
 
 exit 0
